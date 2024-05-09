@@ -1,0 +1,27 @@
+<team>Shpper</team>
+<city>Dhaka</city>
+<founded>2024</founded>
+<is_active>true</is_active>
+<total_member>5</total_member>
+<members>
+	<member>Shakib</member>
+	<designation>CTO</designation>
+</members>
+<members>
+	<member>Jahid</member>
+	<designation>Backend Developer</designation>
+</members>
+<members>
+	<member>Sazzad</member>
+	<designation>Frontend Developer</designation>
+</members>
+<members>
+	<member>Habib</member>
+	<designation>UI/UX Designer</designation>
+</members>
+<members>
+	<member>Kawsar</member>
+	<designation>Intern App Developer</designation>
+</members>
+<description>The team is currently working on the app with complete supporting system Currently the app stands on Firebase but custom backend is under development and other supporting systems are als under development</description>
+<other_multiline_option>Team member - ShakibCTOTeam member - JahidBackend DeveloperTeam member - SazzadFrontend DeveloperTeam member - KawsarIntern App DeveloperTeam member - HabibUI/UX Designer</other_multiline_option>
