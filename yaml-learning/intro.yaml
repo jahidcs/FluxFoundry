@@ -1,0 +1,32 @@
+team: Shpper
+city: Dhaka
+founded: 2024
+is_active: true
+total_member: 5
+members:
+  - Shakib
+  - Jahid
+  - Sazzad
+  - Habib
+  - Kawsar
+description: >
+  The team is currently working on the app with complete supporting system
+  Currently the app stands on Firebase
+  but custom backend is under development
+  and other supporting systems are als under development
+
+other_multiline_option: |
+  Team member - Shakib
+  CTO
+
+  Team member - Jahid
+  Backend Developer
+
+  Team member - Sazzad
+  Frontend Developer
+
+  Team member - Kawsar
+  Intern App Developer
+
+  Team member - Habib
+  UI/UX Designer
