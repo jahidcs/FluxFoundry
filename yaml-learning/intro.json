@@ -1,0 +1,31 @@
+{
+    "team": "Shpper",
+    "city": "Dhaka",
+    "founded": 2024,
+    "is_active": true,
+    "total_member": 5,
+    "members": [
+      {
+        "member": "Shakib",
+        "designation": "CTO"
+      },
+      {
+        "member": "Jahid",
+        "designation": "Backend Developer"
+      },
+      {
+        "member": "Sazzad",
+        "designation": "Frontend Developer"
+      },
+      {
+        "member": "Habib",
+        "designation": "UI/UX Designer"
+      },
+      {
+        "member": "Kawsar",
+        "designation": "Intern App Developer"
+      }
+    ],
+    "description": "The team is currently working on the app with complete supporting system Currently the app stands on Firebase but custom backend is under development and other supporting systems are als under development\n",
+    "other_multiline_option": "Team member - Shakib\nCTO\n\nTeam member - Jahid\nBackend Developer\n\nTeam member - Sazzad\nFrontend Developer\n\nTeam member - Kawsar\nIntern App Developer\n\nTeam member - Habib\nUI/UX Designer\n"
+  }
