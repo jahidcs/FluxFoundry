@@ -8,7 +8,7 @@ The counterpart to serialization is deserialization, which reconstructs the orig
 
 ## What is XML, YAML, JSON?
 
-XML, YAML, and JSON  define specific ways to structure and represent the data as a stream of bytes for serialization.
+XML, YAML, and JSON  define specific ways to structure and represent the data as a stream of bytes for data serialization.
 XML, YAML, and JSON are all popular formats for storing and exchanging data, but they each have their own strengths and weaknesses:
 
 - XML (Extensible Markup Language):
