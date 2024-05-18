@@ -1,0 +1,29 @@
+{
+  "Topic": "Yaml Introduction",
+  "version": "1.0.1",
+  "price": 100,
+  "is_pubic": true,
+  "date_format_yaml": "yyyy-mm-dd",
+  "release_date": "2024-05-18T00:00:00.000Z",
+  "pre_enroll": null,
+  "tags": ["DevOps", "Data Serialization", "Data Format"],
+  "course_ta": ["Jahid", "Abul", "Shamim"],
+  "ta_details": [
+    {
+      "name": "Jahid Hassan",
+      "email": "jahid@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "name": "Abul",
+      "email": "abul@gmail.com",
+      "role": "Assistant"
+    },
+    {
+      "name": "Shamim",
+      "email": "shamim@gmail.com",
+      "role": "Coordinator"
+    }
+  ],
+  "payment": 100
+}

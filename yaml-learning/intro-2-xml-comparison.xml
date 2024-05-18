@@ -1,0 +1,29 @@
+<Topic>Yaml Introduction</Topic>
+<version>1.0.1</version>
+<price>100</price>
+<is_pubic>true</is_pubic>
+<date_format_yaml>yyyy-mm-dd</date_format_yaml>
+<release_date/>
+<pre_enroll/>
+<tags>DevOps</tags>
+<tags>Data Serialization</tags>
+<tags>Data Format</tags>
+<course_ta>Jahid</course_ta>
+<course_ta>Abul</course_ta>
+<course_ta>Shamim</course_ta>
+<ta_details>
+  <name>Jahid Hassan</name>
+  <email>jahid@gmail.com</email>
+  <role>Admin</role>
+</ta_details>
+<ta_details>
+  <name>Abul</name>
+  <email>abul@gmail.com</email>
+  <role>Assistant</role>
+</ta_details>
+<ta_details>
+  <name>Shamim</name>
+  <email>shamim@gmail.com</email>
+  <role>Coordinator</role>
+</ta_details>
+<payment>100</payment>
